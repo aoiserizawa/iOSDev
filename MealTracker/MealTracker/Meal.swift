@@ -18,7 +18,7 @@ class Meal{
     
     // MARK: Initialization
     
-    init?(name: String, photo: UIImage, rating: Int){
+    init?(name: String, photo: UIImage?, rating: Int){
         
         //Initialized Stored Properties
         

@@ -1,14 +1,18 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "65846BDAD8BBF870445939285448FED01C05CDDA",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "65846BDAD8BBF870445939285448FED01C05CDDA+++AC3985A",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "65846BDAD8BBF870445939285448FED01C05CDDA" : 0
+    "65846BDAD8BBF870445939285448FED01C05CDDA+++AC3985A" : 0,
+    "65846BDAD8BBF870445939285448FED01C05CDDA+++9D55578" : 0,
+    "65846BDAD8BBF870445939285448FED01C05CDDA+++6423FA2" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8656AD4E-0235-44C7-910D-A66C0CD0016F",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "65846BDAD8BBF870445939285448FED01C05CDDA" : ""
+    "65846BDAD8BBF870445939285448FED01C05CDDA+++AC3985A" : "iOSDev\/",
+    "65846BDAD8BBF870445939285448FED01C05CDDA+++9D55578" : "",
+    "65846BDAD8BBF870445939285448FED01C05CDDA+++6423FA2" : ""
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "MealTracker",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -17,12 +21,17 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aoiserizawa\/iOSDev.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65846BDAD8BBF870445939285448FED01C05CDDA"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65846BDAD8BBF870445939285448FED01C05CDDA+++6423FA2"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aoiserizawa\/iOSDev.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65846BDAD8BBF870445939285448FED01C05CDDA"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65846BDAD8BBF870445939285448FED01C05CDDA+++9D55578"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aoiserizawa\/iOSDev.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65846BDAD8BBF870445939285448FED01C05CDDA+++AC3985A"
     }
   ]
 }
