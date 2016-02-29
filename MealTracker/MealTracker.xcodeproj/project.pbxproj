@@ -169,8 +169,8 @@
 		74B6B7291C80E92300F4254B /* MealTable */ = {
 			isa = PBXGroup;
 			children = (
-				74B6B7251C80AB6F00F4254B /* MealTableViewCell.swift */,
 				74B6B7271C80B2E800F4254B /* MealTableViewController.swift */,
+				74B6B7251C80AB6F00F4254B /* MealTableViewCell.swift */,
 			);
 			name = MealTable;
 			sourceTree = "<group>";
